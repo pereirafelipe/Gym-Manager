@@ -17,6 +17,15 @@
       "gender": "M",
       "services": "Cardio, Funcional",
       "created_at": 1611684222639
+    },
+    {
+      "id": 3,
+      "avatar_url": "http://sdadsada.com.br",
+      "name": "João de Deus",
+      "birth": 822614400000,
+      "gender": "M",
+      "services": "Natação",
+      "created_at": 1611685949732
     }
   ]
 }
